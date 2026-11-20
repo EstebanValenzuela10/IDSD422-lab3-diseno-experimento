@@ -1,7 +1,5 @@
 # Plantilla de protocolo — Experimento de ubicación de producto
 
-# Plantilla de protocolo — Experimento de ubicación de producto
-
 **Equipo:** Individual · **Integrantes:** Esteban Valenzuela · **Fecha:** 19/11/2026
 
 **Repositorio (fork):** https://github.com/EstebanValenzuela10/IDSD422-lab3-diseno-experimento.git
